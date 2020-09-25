@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    z-index: -1;
+	font-family: "Comic Sans MS", cursive, sans-serif; 
+}
+
+.center{
+	display: flex;
+	text-align: center; 
+}

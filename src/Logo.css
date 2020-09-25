@@ -1,0 +1,11 @@
+.Tilt{
+	display:flex;
+	justify-content: flex-start;
+	position: absolute;
+	top:0px;
+}
+
+.Tilt-inner{
+	padding-top:25px;
+	padding-left: 25px
+}

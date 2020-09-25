@@ -1,0 +1,12 @@
+.navigation {
+	display: flex;
+	justify-content: flex-end;
+	padding-right: 10px;
+}
+
+.nav-inner{
+	cursor: pointer;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+	text-decoration: underline;
+	text-shadow: 0 0 1px;
+}

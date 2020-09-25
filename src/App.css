@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+button{
+	cursor:pointer;
+}
+
+.particles{
+    background: rgb(200,59,239);
+    background: linear-gradient(90deg, rgba(200,59,239,1) 12%, rgba(0,212,255,1) 100%) !important;
+	position:fixed;
+	z-index: -1;
+	top:0px;
+	bottom: 0px;
+	right:0px;
+	left: 0px;
+}
+
+
+
